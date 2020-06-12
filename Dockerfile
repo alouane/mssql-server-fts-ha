@@ -1,6 +1,6 @@
 # mssql-agent-fts-ha-tools
 # Maintainer: Threecomp.ma
-# Author: ALOUANE Nour-Eddine
+# Author: ALOUANE Nour-Eddine 
 
 # Base OS layer: Latest mssql server
 FROM mcr.microsoft.com/mssql/server
